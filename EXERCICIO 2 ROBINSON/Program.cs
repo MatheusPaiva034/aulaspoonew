@@ -8,7 +8,7 @@ internal class Program
         aluno aluno = new aluno();
 
         aluno.nome = "Matheus";
-        aluno.idade = 31;
+        aluno.idade = 55;
         aluno.matricula = "032064";
 
         //PROFESSOR
